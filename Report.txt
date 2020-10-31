@@ -1,0 +1,19 @@
+Seat No : 1
+Passenger : Nadeeja
+Waiting Time : 8
+
+Seat No : 4
+Passenger : Mohan
+Waiting Time : 12
+
+Seat No : 10
+Passenger : Sahan
+Waiting Time : 12
+
+Seat No : 15
+Passenger : Kesara
+Waiting Time : 10
+
+Maximum Waiting Time : 12
+Minimum Waiting Time : 8
+Average Waiting Time : 10.5

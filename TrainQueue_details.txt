@@ -1,0 +1,7 @@
+Seat No : 1   Passenger : Nadeeja
+Seat No : 4   Passenger : Mohan
+Seat No : 15   Passenger : Kesara
+Seat No : 17   Passenger : Pawan
+Seat No : 24   Passenger : Kumar
+Seat No : 33   Passenger : Sabith
+Seat No : 42   Passenger : Pathum
